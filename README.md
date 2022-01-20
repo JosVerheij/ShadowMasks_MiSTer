@@ -1,4 +1,4 @@
-# Shadow Masks for [MiSTer FPGA] by Jovec(https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+# Shadow Masks for [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer/wiki) by Jovec
 
 # Instructions
 
