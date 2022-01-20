@@ -1,0 +1,12 @@
+# MiSTer Shadowmask File
+# Author: Jovec
+# Name: Monochrome
+#
+# dots_horizontal: 1.000000
+# dots_vertical: 1.000000
+
+v2
+
+3,1
+
+708,708,008

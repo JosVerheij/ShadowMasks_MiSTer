@@ -1,0 +1,12 @@
+# MiSTer Shadowmask File
+# Author: Jovec
+# Name: RYCB
+#
+# dots_horizontal: 1.000000
+# dots_vertical: 1.000000
+
+v2
+
+4,1
+
+444,644,344,144

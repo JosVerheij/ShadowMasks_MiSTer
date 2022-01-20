@@ -1,0 +1,13 @@
+# MiSTer Shadowmask File
+# Author: Jovec
+# Name: MagentaGreen
+#
+# dots_horizontal: 2.000000
+# dots_vertical: 1.000000
+
+v2
+
+4,2
+
+044,044,544,244
+544,244,044,044

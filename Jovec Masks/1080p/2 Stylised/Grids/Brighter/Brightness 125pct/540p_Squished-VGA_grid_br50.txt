@@ -1,0 +1,13 @@
+# MiSTer Shadowmask File
+# Author: Jovec
+# Name: Squished-VGA
+#
+# dots_horizontal: 2.000000
+# dots_vertical: 1.000000
+
+v2
+
+6,2
+
+448,448,248,248,148,148
+248,148,148,448,448,248
