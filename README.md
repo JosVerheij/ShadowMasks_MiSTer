@@ -3,3 +3,8 @@
 # Instructions
 
 Download 'Jovec' folder and place in MiSTers shadow mask folder.
+
+
+## Please note
+
+Not all masks have been added yet.
